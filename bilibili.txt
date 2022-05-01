@@ -1,0 +1,6 @@
+# Block Bilibili
+
+||bilibili.com^
+||biliapi.com^
+||bilivideo.com^
+||biligame.net^

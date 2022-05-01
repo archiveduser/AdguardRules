@@ -1,0 +1,21 @@
+# block bytedance
+# from https://www.right.com.cn/forum/thread-3222704-1-1.html
+||douyin.com^$important
+||douyincdn.com^$important
+||toutiao.com^$important
+||snssdk.com^$important
+||ixigua.com^$important
+||amemv.com^$important
+||bytedance.net^$important
+||bdurl.net^$important
+||douyincdn.com^$important
+||yximgs.com^$important||douyin.com^$important
+||douyincdn.com^$important
+||toutiao.com^$important
+||snssdk.com^$important
+||ixigua.com^$important
+||amemv.com^$important
+||bytedance.net^$important
+||bdurl.net^$important
+||douyincdn.com^$important
+||yximgs.com^$important

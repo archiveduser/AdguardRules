@@ -19,3 +19,9 @@
 ||bdurl.net^$important
 ||douyincdn.com^$important
 ||yximgs.com^$important
+||kwaicdn.com^$important
+||kuaishoupay.com^$important
+||kuaishou.com^$important
+||kuaishouzt.com^$important
+||ksapisrv.com^$important
+||kwaizt.com^$important
